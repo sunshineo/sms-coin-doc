@@ -1,8 +1,8 @@
 # SMS Coins
-A cypto coin experiment project empowers you to get and use cypto coin by sending SMS messages
+A cypto coin experiment project empowers you to get and use cypto coins by sending SMS messages
 
 ## Commands
-Send SMS to +1-415-841-2646 in the following format:
+Send SMS to +1 (323)615-2646 in the following format:
 * Register and get 100 SMS coins
 ```
 Start
@@ -31,14 +31,14 @@ Stop
 * You can send up to 10 transactions within an hour. However if you send more than one transaction, you will not get a chance to be rewarded. The system can only handle limited amount of transactions. Please save the bandwidth for others.
 
 ## FAQ
-Q: Is this bitcoin?
-A: No.
+* Q: Is this bitcoin?
+* A: No.
 
-Q: Is this on blockchain?
-A: Not yet.
+* Q: Is this on blockchain?
+* A: Not yet.
 
-Q: Can I sell the SMS coin for money?
-A: You can try but unlikely right now. Will be much more likely in the near future after we move it onto blockchain.
+* Q: Can I sell the SMS coin for money?
+* A: You can try but unlikely right now. Will be much more likely in the near future after we move it onto blockchain.
 
-Q: Then what can I do with SMS coin right now?
-A: Send to family and friends for fun or to show your appreciation to them or come up with your innovative use case.
+* Q: Then what can I do with SMS coin right now?
+* A: Send to family and friends for fun or to show your appreciation to them or come up with your innovative use case.
