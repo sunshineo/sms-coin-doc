@@ -2,7 +2,7 @@
 A cypto coin experiment project empowers you to get and use cypto coins by sending SMS messages
 
 ## Commands
-Send SMS to +1 (323)615-2646 in the following format:
+# Send SMS to +1 (323)615-2646 in the following format:
 * Register and get 100 SMS coins
 ```
 Start
