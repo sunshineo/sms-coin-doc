@@ -16,9 +16,9 @@ Send 10 5551231234 Thank you for your help!
 ```
 Yes
 ```
-* Or reject and stop receiving messages by:
+* You can also request money from friends by:
 ```
-No
+Charge 5 5551231234
 ```
 * You can also stop any time with:
 ```
