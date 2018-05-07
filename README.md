@@ -29,3 +29,9 @@ Stop
 * When you register for the first time, you get 100 SMS coins. And everyday, 10,000 SMS coins will be divided evenly between the newly registered users.
 * For every hour, if you send SMS coins to your friends once and only once, you get 1 in 10 chance to divide 1000 SMS coins at the end of the hour.
 * If your friend accepted your coins and is a first time user, you both get 100 SMS coins immediately. And everyday, 10,000 SMS coins will be divided evenly between the accepted referrals. 
+
+## Contact Us
+sunshineo@gmail.com
+yingliao422@gmail.com
+manovenkatesan@gmail.com
+tomlong@seattlestartup.org
